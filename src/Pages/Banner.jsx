@@ -4,6 +4,7 @@ import image2 from '../assets/BannerImages/headerimage-without-text.png.png';
 
 const Banner = () => {
     return (
+        // This section is about taking ideas from better to best. 
         <div className="hero min-h-screen bg-white"> 
             <div className="hero-content flex-col lg:flex-row-reverse">
                 <img src={image2} alt="" />

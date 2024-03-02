@@ -3,6 +3,7 @@ import pic from '../assets/Section6Images/hybridwork.png.png';
 
 const Section6 = () => {
     return (
+        // This section is about Work together, wherever you work.This section was supposed to be section number 3, but I missed it, so I have assigned it as section number 6.
         <div className="hero min-h-screen  bg-white">
         <div className="hero-content flex-col lg:flex-row gap-12 ml-36">
             <div>

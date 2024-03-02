@@ -3,6 +3,7 @@ import images from '../assets/Section2Images/Group (2).png';
 
 const Section2 = () => {
     return (
+        // This section is about Collaborate without constraints.
         <div className="relative">
             <div className='mb-5 mt-6 flex justify-center flex-col items-center'>
                 <img src={images} alt="" style={{

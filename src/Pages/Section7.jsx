@@ -3,6 +3,7 @@ import pic from '../assets/Section7Images/div (5).png';
 import pic1 from '../assets/Section7Images/div (6).png';
 
 const Section7 = () => {
+    //This section is about Built for all kinds of teams.
     const buttonData = [
         { name: 'UX & Design', styles: { width: '137.52px', height: '48px', padding: '13px 32.52px 15px 18px', borderRadius: '24px', } },
         { name: 'Marketing', styles: { width: '137.52px', height: '48px', padding: '13px 32.52px 15px 18px', borderRadius: '24px' } },
@@ -19,7 +20,7 @@ const Section7 = () => {
     ];
     return (
         <div>
-            <h2 className='ml-36 font-inter text-4xl font-bold leading-14 text-[#050038] mb-4'>Built for the way you work</h2>
+            <h2 className='ml-36 font-inter text-4xl font-bold leading-14 text-[#050038] mb-4'>Built for all kinds of teams</h2>
             <div className="flex flex-wrap justify-center gap-4">
                 {buttonData.map((button, index) => (
                     <button key={index} className="btn" style={button.styles}>

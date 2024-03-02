@@ -7,6 +7,7 @@ import bannerImg2 from '../assets/Section8Images/div (10).png';
 import bannerImg3 from '../assets/Section8Images/div (11).png';
 
 const Section8 = () => {
+    // This section is about Loved by the world's best teams.
     return (
         <div>
             <div className='flex justify-center'>

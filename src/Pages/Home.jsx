@@ -23,8 +23,8 @@ const Home = () => {
             <Section4></Section4>
             <Section5></Section5>
             <Section7></Section7>
-           <Section8></Section8>
-           <Footer></Footer>
+            <Section8></Section8>
+            <Footer></Footer>
         </div>
     );
 };

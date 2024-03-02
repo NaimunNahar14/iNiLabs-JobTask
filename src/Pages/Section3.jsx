@@ -3,6 +3,7 @@ import pic from '../assets/Section3Images/M3_integrations_all_integrations.png.p
 
 const Section3 = () => {
     return (
+        // This section is about Connect your tools, close your tabs.
         <div className="hero min-h-screen  bg-white">
             <div className="hero-content flex-col lg:flex-row gap-12">
                 <img src={pic} className='ml-11' />

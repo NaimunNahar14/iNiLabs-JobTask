@@ -8,6 +8,7 @@ import logo5 from '../assets/Section1Images/okta.svg.png';
 
 const Section1 = () => {
     return (
+        //This section is about Trusted by 45M+ users.
         <div className="mb-11">
             <h2 className='text-center text-lg font-normal text-[#05003899] 
  mb-8'>Trusted by 45M+ users</h2>

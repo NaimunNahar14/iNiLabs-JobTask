@@ -2,6 +2,7 @@ import React from 'react';
 import pic from '../assets/Section5Images/div (3).png';
 
 const Section5 = () => {
+    // This section is about Built for the way you work.
     const buttonData = [
         { name: 'Brainstorming', styles: { width: '137.52px', height: '48px', padding: '13px 32.52px 15px 18px', borderRadius: '24px' } },
         { name: 'Diagramming', styles: { width: '137.52px', height: '48px', padding: '13px 32.52px 15px 18px', borderRadius: '24px' } },
