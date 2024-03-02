@@ -11,10 +11,10 @@
 ### Hosting Configuration
 <hr/>
 <ul>
-  <li>Netlify</li>
+<li>Netlify</li>
 </ul>
 
-### Provided Important Link
+### Important Link
 <hr/>
 <li> Github: https://github.com/NaimunNahar14/iNiLabs-JobTask </li>
 <li>Live: https://65e33069d5105ec2b15dbf71--cerulean-paprenjak-e553fb.netlify.app/ </li>
