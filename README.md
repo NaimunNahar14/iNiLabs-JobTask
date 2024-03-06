@@ -4,7 +4,6 @@
 <li>React Router DOM for routing and Javascript</li>
 <li>ReactJS Framework</li>
 <li>Tailwind CSS and Daisy ui</li>
-<li>DaisyUI, Tailwind CSS, ANTD</li>
 <li>React_icons</li>
 <li>React-infinite-logo-slider</li>
   
